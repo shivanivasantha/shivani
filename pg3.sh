@@ -10,5 +10,6 @@ echo file created at: $6 $7 $8
 echo file name $9
 else
 echo file does not exit
-fi
+fi 
+/hello
 
